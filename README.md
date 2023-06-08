@@ -7,3 +7,9 @@ The data set used for the purpose of the project is sourced from the data reposi
 If you like the project, considering upvoting the following files in Kaggle: 
 https://www.kaggle.com/code/hrishitabapuram/analysis-of-housing-market-in-ireland-in-2021
 https://www.kaggle.com/code/hrishitabapuram/creating-classes-and-methods-in-r
+
+This Repository contains the followign files:
+
+1. `housing2021.csv`: This is the Raw data from the CSO website. For the cleaned data, run the `write.csv()` code for the `df4` dataframe in R file.
+2. `housingireland public.Rmd`: R markdown File containing the code and findings
+3. `housingireland public.pdf`: pdf report of the markdown file above
